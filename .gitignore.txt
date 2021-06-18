@@ -1,0 +1,34 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+*.pptx
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Other rubbish that accumulates
+\.#*
+*~
+
+# C compiled program
+external_programs/Triominoes/triominoes
+external_programs/phipsi/phipsi
+# Temp file used for Triominoes/run_triominoes.sh
+external_programs/Triominoes/temp.txt
+
+# Jupyter notebooks
+.ipynb_checkpoints
